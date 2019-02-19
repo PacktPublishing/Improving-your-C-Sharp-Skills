@@ -1,0 +1,32 @@
+// ***** BenchmarkRunner: Start   *****
+// Found benchmarks:
+
+// Validating benchmarks:
+// ***** BenchmarkRunner: Finish  *****
+
+// * Export *
+  BenchmarkDotNet.Artifacts\results\BenchmarkRun-001-2017-10-20-04-26-22-report.csv
+  BenchmarkDotNet.Artifacts\results\BenchmarkRun-001-2017-10-20-04-26-22-report-github.md
+  BenchmarkDotNet.Artifacts\results\BenchmarkRun-001-2017-10-20-04-26-22-report.html
+
+// * Detailed results *
+Total time: 00:00:00 (0 sec)
+
+// * Summary *
+
+BenchmarkDotNet=v0.10.9, OS=Windows 10 Redstone 2 (10.0.15063)
+Processor=Intel Core i7-4900MQ CPU 2.80GHz (Haswell), ProcessorCount=8
+Frequency=2728057 Hz, Resolution=366.5613 ns, Timer=TSC
+.NET Core SDK=2.0.0
+  [Host] : .NET Core 2.0.0 (Framework 4.6.00001.0), 64bit RyuJIT DEBUG
+
+There are no benchmarks found 
+
+
+// * Legends *
+  Mean  : Arithmetic mean of all measurements
+  Error : Half of 99.9% confidence interval
+  1 ns  : 1 Nanosecond (0.000000001 sec)
+
+// ***** BenchmarkRunner: End *****
+// * Artifacts cleanup *

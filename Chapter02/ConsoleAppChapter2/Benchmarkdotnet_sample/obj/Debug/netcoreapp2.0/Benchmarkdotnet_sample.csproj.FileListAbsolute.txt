@@ -1,0 +1,11 @@
+D:\Authoring\C#7.0NetCore2.0\My Chapters\Chapter2\Code\ConsoleAppChapter2\Benchmarkdotnet_sample\bin\Debug\netcoreapp2.0\Benchmarkdotnet_sample.deps.json
+D:\Authoring\C#7.0NetCore2.0\My Chapters\Chapter2\Code\ConsoleAppChapter2\Benchmarkdotnet_sample\bin\Debug\netcoreapp2.0\Benchmarkdotnet_sample.runtimeconfig.json
+D:\Authoring\C#7.0NetCore2.0\My Chapters\Chapter2\Code\ConsoleAppChapter2\Benchmarkdotnet_sample\bin\Debug\netcoreapp2.0\Benchmarkdotnet_sample.runtimeconfig.dev.json
+D:\Authoring\C#7.0NetCore2.0\My Chapters\Chapter2\Code\ConsoleAppChapter2\Benchmarkdotnet_sample\bin\Debug\netcoreapp2.0\Benchmarkdotnet_sample.dll
+D:\Authoring\C#7.0NetCore2.0\My Chapters\Chapter2\Code\ConsoleAppChapter2\Benchmarkdotnet_sample\obj\Debug\netcoreapp2.0\Benchmarkdotnet_sample.csprojResolveAssemblyReference.cache
+D:\Authoring\C#7.0NetCore2.0\My Chapters\Chapter2\Code\ConsoleAppChapter2\Benchmarkdotnet_sample\obj\Debug\netcoreapp2.0\Benchmarkdotnet_sample.csproj.CoreCompileInputs.cache
+D:\Authoring\C#7.0NetCore2.0\My Chapters\Chapter2\Code\ConsoleAppChapter2\Benchmarkdotnet_sample\obj\Debug\netcoreapp2.0\Benchmarkdotnet_sample.AssemblyInfoInputs.cache
+D:\Authoring\C#7.0NetCore2.0\My Chapters\Chapter2\Code\ConsoleAppChapter2\Benchmarkdotnet_sample\obj\Debug\netcoreapp2.0\Benchmarkdotnet_sample.AssemblyInfo.cs
+D:\Authoring\C#7.0NetCore2.0\My Chapters\Chapter2\Code\ConsoleAppChapter2\Benchmarkdotnet_sample\bin\Debug\netcoreapp2.0\Benchmarkdotnet_sample.pdb
+D:\Authoring\C#7.0NetCore2.0\My Chapters\Chapter2\Code\ConsoleAppChapter2\Benchmarkdotnet_sample\obj\Debug\netcoreapp2.0\Benchmarkdotnet_sample.dll
+D:\Authoring\C#7.0NetCore2.0\My Chapters\Chapter2\Code\ConsoleAppChapter2\Benchmarkdotnet_sample\obj\Debug\netcoreapp2.0\Benchmarkdotnet_sample.pdb
