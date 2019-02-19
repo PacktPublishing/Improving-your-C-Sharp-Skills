@@ -1,0 +1,11 @@
+D:\Authoring\C#7.0NetCore2.0\My Chapters\Chapter3\Code\ConsoleAppThreads\ConsoleAppThreads\bin\Debug\netcoreapp2.0\ConsoleAppThreads.deps.json
+D:\Authoring\C#7.0NetCore2.0\My Chapters\Chapter3\Code\ConsoleAppThreads\ConsoleAppThreads\bin\Debug\netcoreapp2.0\ConsoleAppThreads.runtimeconfig.json
+D:\Authoring\C#7.0NetCore2.0\My Chapters\Chapter3\Code\ConsoleAppThreads\ConsoleAppThreads\bin\Debug\netcoreapp2.0\ConsoleAppThreads.runtimeconfig.dev.json
+D:\Authoring\C#7.0NetCore2.0\My Chapters\Chapter3\Code\ConsoleAppThreads\ConsoleAppThreads\bin\Debug\netcoreapp2.0\ConsoleAppThreads.dll
+D:\Authoring\C#7.0NetCore2.0\My Chapters\Chapter3\Code\ConsoleAppThreads\ConsoleAppThreads\bin\Debug\netcoreapp2.0\ConsoleAppThreads.pdb
+D:\Authoring\C#7.0NetCore2.0\My Chapters\Chapter3\Code\ConsoleAppThreads\ConsoleAppThreads\obj\Debug\netcoreapp2.0\ConsoleAppThreads.csprojResolveAssemblyReference.cache
+D:\Authoring\C#7.0NetCore2.0\My Chapters\Chapter3\Code\ConsoleAppThreads\ConsoleAppThreads\obj\Debug\netcoreapp2.0\ConsoleAppThreads.csproj.CoreCompileInputs.cache
+D:\Authoring\C#7.0NetCore2.0\My Chapters\Chapter3\Code\ConsoleAppThreads\ConsoleAppThreads\obj\Debug\netcoreapp2.0\ConsoleAppThreads.AssemblyInfoInputs.cache
+D:\Authoring\C#7.0NetCore2.0\My Chapters\Chapter3\Code\ConsoleAppThreads\ConsoleAppThreads\obj\Debug\netcoreapp2.0\ConsoleAppThreads.AssemblyInfo.cs
+D:\Authoring\C#7.0NetCore2.0\My Chapters\Chapter3\Code\ConsoleAppThreads\ConsoleAppThreads\obj\Debug\netcoreapp2.0\ConsoleAppThreads.dll
+D:\Authoring\C#7.0NetCore2.0\My Chapters\Chapter3\Code\ConsoleAppThreads\ConsoleAppThreads\obj\Debug\netcoreapp2.0\ConsoleAppThreads.pdb

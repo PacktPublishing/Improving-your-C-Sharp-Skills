@@ -1,0 +1,11 @@
+D:\Authoring\C#7.0NetCore2.0\My Chapters\Chapter3\Code\ConsoleAppThreads\JobScheduler.cs\bin\Debug\netcoreapp2.0\JobScheduler.cs.deps.json
+D:\Authoring\C#7.0NetCore2.0\My Chapters\Chapter3\Code\ConsoleAppThreads\JobScheduler.cs\bin\Debug\netcoreapp2.0\JobScheduler.cs.runtimeconfig.json
+D:\Authoring\C#7.0NetCore2.0\My Chapters\Chapter3\Code\ConsoleAppThreads\JobScheduler.cs\bin\Debug\netcoreapp2.0\JobScheduler.cs.runtimeconfig.dev.json
+D:\Authoring\C#7.0NetCore2.0\My Chapters\Chapter3\Code\ConsoleAppThreads\JobScheduler.cs\bin\Debug\netcoreapp2.0\JobScheduler.cs.dll
+D:\Authoring\C#7.0NetCore2.0\My Chapters\Chapter3\Code\ConsoleAppThreads\JobScheduler.cs\bin\Debug\netcoreapp2.0\JobScheduler.cs.pdb
+D:\Authoring\C#7.0NetCore2.0\My Chapters\Chapter3\Code\ConsoleAppThreads\JobScheduler.cs\obj\Debug\netcoreapp2.0\JobScheduler.cs.csprojResolveAssemblyReference.cache
+D:\Authoring\C#7.0NetCore2.0\My Chapters\Chapter3\Code\ConsoleAppThreads\JobScheduler.cs\obj\Debug\netcoreapp2.0\JobScheduler.cs.csproj.CoreCompileInputs.cache
+D:\Authoring\C#7.0NetCore2.0\My Chapters\Chapter3\Code\ConsoleAppThreads\JobScheduler.cs\obj\Debug\netcoreapp2.0\JobScheduler.cs.AssemblyInfoInputs.cache
+D:\Authoring\C#7.0NetCore2.0\My Chapters\Chapter3\Code\ConsoleAppThreads\JobScheduler.cs\obj\Debug\netcoreapp2.0\JobScheduler.cs.AssemblyInfo.cs
+D:\Authoring\C#7.0NetCore2.0\My Chapters\Chapter3\Code\ConsoleAppThreads\JobScheduler.cs\obj\Debug\netcoreapp2.0\JobScheduler.cs.dll
+D:\Authoring\C#7.0NetCore2.0\My Chapters\Chapter3\Code\ConsoleAppThreads\JobScheduler.cs\obj\Debug\netcoreapp2.0\JobScheduler.cs.pdb

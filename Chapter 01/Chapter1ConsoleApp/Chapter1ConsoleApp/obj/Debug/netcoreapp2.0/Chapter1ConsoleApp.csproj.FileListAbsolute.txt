@@ -1,0 +1,17 @@
+D:\Authoring\C#7.0NetCore2.0\My Chapters\Chapter1\Code\Chapter1ConsoleApp\Chapter1ConsoleApp\bin\Debug\netcoreapp2.0\Chapter1ConsoleApp.deps.json
+D:\Authoring\C#7.0NetCore2.0\My Chapters\Chapter1\Code\Chapter1ConsoleApp\Chapter1ConsoleApp\bin\Debug\netcoreapp2.0\Chapter1ConsoleApp.runtimeconfig.json
+D:\Authoring\C#7.0NetCore2.0\My Chapters\Chapter1\Code\Chapter1ConsoleApp\Chapter1ConsoleApp\bin\Debug\netcoreapp2.0\Chapter1ConsoleApp.runtimeconfig.dev.json
+D:\Authoring\C#7.0NetCore2.0\My Chapters\Chapter1\Code\Chapter1ConsoleApp\Chapter1ConsoleApp\bin\Debug\netcoreapp2.0\Chapter1ConsoleApp.dll
+D:\Authoring\C#7.0NetCore2.0\My Chapters\Chapter1\Code\Chapter1ConsoleApp\Chapter1ConsoleApp\bin\Debug\netcoreapp2.0\Chapter1ConsoleApp.pdb
+D:\Authoring\C#7.0NetCore2.0\My Chapters\Chapter1\Code\Chapter1ConsoleApp\Chapter1ConsoleApp\obj\Debug\netcoreapp2.0\Chapter1ConsoleApp.csprojResolveAssemblyReference.cache
+D:\Authoring\C#7.0NetCore2.0\My Chapters\Chapter1\Code\Chapter1ConsoleApp\Chapter1ConsoleApp\obj\Debug\netcoreapp2.0\Chapter1ConsoleApp.csproj.CoreCompileInputs.cache
+D:\Authoring\C#7.0NetCore2.0\My Chapters\Chapter1\Code\Chapter1ConsoleApp\Chapter1ConsoleApp\obj\Debug\netcoreapp2.0\Chapter1ConsoleApp.AssemblyInfoInputs.cache
+D:\Authoring\C#7.0NetCore2.0\My Chapters\Chapter1\Code\Chapter1ConsoleApp\Chapter1ConsoleApp\obj\Debug\netcoreapp2.0\Chapter1ConsoleApp.AssemblyInfo.cs
+D:\Authoring\C#7.0NetCore2.0\My Chapters\Chapter1\Code\Chapter1ConsoleApp\Chapter1ConsoleApp\obj\Debug\netcoreapp2.0\Chapter1ConsoleApp.dll
+D:\Authoring\C#7.0NetCore2.0\My Chapters\Chapter1\Code\Chapter1ConsoleApp\Chapter1ConsoleApp\obj\Debug\netcoreapp2.0\Chapter1ConsoleApp.pdb
+\\192.168.0.200\All_Books\2018\Working_Titles\Books\8811_C# 7 and .NET Core 2.0 High Performance\BookDrafts\Code\Chapter 1\Chapter1ConsoleApp\Chapter1ConsoleApp\obj\Debug\netcoreapp2.0\Chapter1ConsoleApp.csprojResolveAssemblyReference.cache
+\\192.168.0.200\All_Books\2018\Working_Titles\Books\8811_C# 7 and .NET Core 2.0 High Performance\BookDrafts\Code\Chapter 1\Chapter1ConsoleApp\Chapter1ConsoleApp\obj\Debug\netcoreapp2.0\Chapter1ConsoleApp.csproj.CoreCompileInputs.cache
+\\192.168.0.200\All_Books\2018\Working_Titles\Books\8811_C# 7 and .NET Core 2.0 High Performance\BookDrafts\Code\Chapter 1\Chapter1ConsoleApp\Chapter1ConsoleApp\obj\Debug\netcoreapp2.0\Chapter1ConsoleApp.AssemblyInfoInputs.cache
+\\192.168.0.200\All_Books\2018\Working_Titles\Books\8811_C# 7 and .NET Core 2.0 High Performance\BookDrafts\Code\Chapter 1\Chapter1ConsoleApp\Chapter1ConsoleApp\obj\Debug\netcoreapp2.0\Chapter1ConsoleApp.AssemblyInfo.cs
+\\192.168.0.200\All_Books\2018\Working_Titles\Books\8811_C# 7 and .NET Core 2.0 High Performance\BookDrafts\Code\Chapter 1\Chapter1ConsoleApp\Chapter1ConsoleApp\obj\Debug\netcoreapp2.0\Chapter1ConsoleApp.dll
+\\192.168.0.200\All_Books\2018\Working_Titles\Books\8811_C# 7 and .NET Core 2.0 High Performance\BookDrafts\Code\Chapter 1\Chapter1ConsoleApp\Chapter1ConsoleApp\obj\Debug\netcoreapp2.0\Chapter1ConsoleApp.pdb
