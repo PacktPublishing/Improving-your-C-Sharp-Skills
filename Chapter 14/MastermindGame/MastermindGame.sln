@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2024
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MastermindGame", "MastermindGame\MastermindGame.csproj", "{8FBA6845-EF2F-47A5-A5C0-A0CB61EA6FEA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MastermindGame.Tests", "MastermindGame.Tests\MastermindGame.Tests.csproj", "{A3363F77-2929-468C-A474-A6CCD3514F52}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8FBA6845-EF2F-47A5-A5C0-A0CB61EA6FEA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8FBA6845-EF2F-47A5-A5C0-A0CB61EA6FEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8FBA6845-EF2F-47A5-A5C0-A0CB61EA6FEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8FBA6845-EF2F-47A5-A5C0-A0CB61EA6FEA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A3363F77-2929-468C-A474-A6CCD3514F52}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3363F77-2929-468C-A474-A6CCD3514F52}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3363F77-2929-468C-A474-A6CCD3514F52}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3363F77-2929-468C-A474-A6CCD3514F52}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B0CAB12B-7690-4E47-BF35-A641013894B5}
+	EndGlobalSection
+EndGlobal

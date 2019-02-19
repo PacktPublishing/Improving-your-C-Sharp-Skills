@@ -1,0 +1,1 @@
+export const SPEAKER_NOT_FOUND = 'SPEAKER_NOT_FOUND';
